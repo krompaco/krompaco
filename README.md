@@ -3,10 +3,10 @@
 - dotnet
 - Tailwind CSS
 - Optimizely CMS
-- hotwired.dev
+- htmx.org
 - Static sites and generators
 
 ### My latest blog posts
 
 - [Matching ChromeDriver NuGet package with Chrome version](https://krompaco.nu/2023/02/matching-selenium-webdriver-chromedriver-nuget-version-with-machine/)
-- [Migrating from Providers to CMS 12 ASP.NET Identity with cookie tweaks](https://krompaco.nu/2023/01/from-providers-to-aspnetidentity-notes/)
+- [Change the IP HTTP Header used for geo-lookup in Application Insights](https://krompaco.nu/2024/06/changing-which-ip-http-header-to-use-in-application-insights/)
